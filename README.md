@@ -9,7 +9,7 @@ Date du Unreal Spring Jam :
 - Au 10 Juin 2020 à  6h
 
 
-Il y a une vidéo youtube qui me permet de vous partager cette aventure !
+Il y a une vidéo youtube qui me permet de vous partager cette aventure ! \
 Si vous avez des questions, n'hésitez pas à m'envoyer un message sur twitter :)
 
 Vidéo de présentation :  \
