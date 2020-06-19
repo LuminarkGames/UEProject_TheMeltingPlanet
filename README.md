@@ -14,7 +14,8 @@ Dates du Unreal Spring Jam :
 Il y a une vidéo YouTube qui me permet de vous partager cette aventure ! \
 Si vous avez des questions, n'hésitez pas à m'envoyer un message sur twitter :)
 
-Vidéo de présentation :  \
-Tester le jeu sur Itch.io : https://luminarkgames.itch.io/the-melting-planet
+Vidéo de présentation : https://www.youtube.com/watch?v=F8sVUtLY28A \
+Tester le jeu sur Itch.io : https://luminarkgames.itch.io/the-melting-planet \
+Tester le jeu sur Gamejolt : https://gamejolt.com/games/TheMeltingPlanet/508151
 
 Me suivre sur Twitter : https://twitter.com/LuminarkGames
